@@ -11,8 +11,8 @@ player createDiaryRecord ["Diary", ["Matériel", "
 ", "a3\ui_f\data\igui\cfg\simpletasks\types\rifle_ca.paa"]];
 
 player createDiaryRecord ["Diary", ["Mission", "Il y a 3 heures, l'équipage de l'<marker name='marker_obj'>USS Nitze</marker> s'est illustré en perdant le navire face à des pirates de la région.
-	<br/>Au millieu de ce foutoir, l'état major n'a pas eu la confirmation que tous les documents présent sur le navire ont été détruits.
-	<br/>Les États Fédérés d'Europe menancant les intérêt économique du pays, les États-Unis ne peuvent risquer d'envoyer d'autres américains.
+	<br/>Au milieu de ce foutoir, l'état major n'a pas eu la confirmation que tous les documents présent sur le navire ont été détruits.
+	<br/>Les États Fédérés d'Europe menaçant les intérêt économique du pays, les États-Unis ne peuvent risquer d'envoyer d'autres américains.
 	<br/>C'est donc à nous, la Shadow Company, d'aller chercher les documents avant que les pirates ne s'enfuient avec, ou que le navire ne sombre avec.
 	<br/><br/>
 	<font color='#007DFF'>Insertion :</font>

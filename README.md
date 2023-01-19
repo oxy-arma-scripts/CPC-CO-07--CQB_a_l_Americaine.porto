@@ -22,9 +22,9 @@ Mais puisque qu'aucun des deux blocs ne veut réellement lâcher l'affaire, chaq
 
 Il y a 3 heures, l'équipage de l'_USS Nitze_ s'est illustré en perdant le navire face à des pirates de la région.
 
-Au millieu de ce foutoir, l'état major n'a pas eu la confirmation que tous les documents présent sur le navire ont été détruits.
+Au milieu de ce foutoir, l'état major n'a pas eu la confirmation que tous les documents présent sur le navire ont été détruits.
 
-Les États Fédérés d'Europe menancant les intérêt économique du pays, les États-Unis ne peuvent risquer d'envoyer d'autres américains.
+Les États Fédérés d'Europe menaçant les intérêt économique du pays, les États-Unis ne peuvent risquer d'envoyer d'autres américains.
 
 C'est donc à nous, la Shadow Company, d'aller chercher les documents avant que les pirates ne s'enfuient avec, ou que le navire ne sombre avec.
 
