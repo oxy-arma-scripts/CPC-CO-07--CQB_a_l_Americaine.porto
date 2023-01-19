@@ -6,7 +6,7 @@
 
 ## Contexte
 
-<font color='#007DFF'>24 Juin 2020 - 04:45 | Au large de Sahrani</font>
+### 24 Juin 2020 - 04:45 | Au large de Sahrani
 
 Après la guerre du Donbass d'il y a 5 ans, les différents pays d'Europe s'unissent sous une même bannière : les États Fédérés d'Europe.
 
@@ -28,15 +28,15 @@ Les États Fédérés d'Europe menancant les intérêt économique du pays, les 
 
 C'est donc à nous, la Shadow Company, d'aller chercher les documents avant que les pirates ne s'enfuient avec, ou que le navire ne sombre avec.
 
-<font color='#007DFF'>Insertion :</font>
+### Insertion :
 Vous êtes insérés directement sur l'hélipad du bâtiment, la _LZ Brillo Pad_.
 
-<font color='#007DFF'>Objectifs :</font>
+### Objectifs :
 
 - Sécurisez le navire.
 - Récupérez les fichiers compromettants.
 
-<font color='#007DFF'>Extraction :</font>
+### Extraction :
 Toute personne disposant d'une 148 peut appeler l'extraction via le menu personnel ACE.
 
 Si le pilote a trop bu et a oublié le chemin de la base, utilisez la commande radio 0-0-5.
